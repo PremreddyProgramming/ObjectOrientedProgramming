@@ -22,7 +22,7 @@ public class CountertopDesign {
 		
 		System.out.println("Following are the Countertop Designs for Bathrooms:::");
 		
-		// System.out.println("Bathroom Counter Top Design 1"+ "- " + BathroomDesign1.getStyle()+ ","+BathroomDesign1.getColor() + ","+BathroomDesign1.getSize());
+		System.out.println("Bathroom Counter Top Design 1"+ "- " + BathroomDesign1.getColor()+ ","+BathroomDesign1.getStyle()+ ","+BathroomDesign1.getSize());
 		System.out.println("Bathroom Counter Top Design 2"+ "- " + BathroomDesign2.getColor()+ ","+BathroomDesign1.getStyle() +","+BathroomDesign2.getSize());
 	
 	
