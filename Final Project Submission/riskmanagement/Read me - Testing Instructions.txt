@@ -1,0 +1,16 @@
+Hello Professor,
+
+a)This is a quick text format instructions for the puropse of testing.
+b) I have also included the testing instructions in the "Final Project Description & Testing Instruction" attached in the updated submission.
+
+TESTING INS:
+
+a) Testing using Input Command Prompt.
+   -> Please use the "RiskManagementTest.java" file whuch is located under the Src--> Main --> 2nd "Risk Management File".
+   -> Testing Scenarios are provided in the attached "Final Project Description & Testing Instruction" file.
+
+b) Testing Using Junit Run Configuration:
+
+   i)	Copy the 2 “RiskManagement” sub folders from the  “Src” folder & paste into the “Src” folder of the Eclipse/any other IDE.
+   ii)	Copy the Test Folder either as separate folder with in the project or into the main “Src” if it doesn't exceute properly ( Screenshots included in the Attached in  "Final Project Description & Testing Instruction" file)
+  iii)	Run the whole project with Junit run config, just wan to be more instructive, if it doesn't run on the whole project, please run the Junit Config on "test" or the "Risk Management" subfolder under "test" folder.
